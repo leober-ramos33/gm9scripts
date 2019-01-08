@@ -5,6 +5,7 @@
 
 ## Usage:
 Usage this with [GodMode9](https://github.com/d0k3/GodMode9) on your 3DS. Required [Boot9Strap](https://github.com/SciresM/boot9strap) or [FastBoot3DS](https://github.com/derrekr/fastboot3DS) (Although also with NtrBootHax)
+
 If you need help, visit [this guide](https://3ds.hacks.guide).
 
 ## License:
